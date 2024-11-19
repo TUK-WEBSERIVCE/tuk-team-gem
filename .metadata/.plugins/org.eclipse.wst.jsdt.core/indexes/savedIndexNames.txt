@@ -1,9 +1,2 @@
-INDEX VERSION 1.4+C:\Dev\Java_web\tuk-team-gem\tuk-team-gem\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1880192378.index
-4258768517.index
-2490808358.index
-1795303610.index
-965141276.index
-533804745.index
-2961137640.index
-152284459.index
+INDEX VERSION 1.4+/Users/haechan/Documents/school/tuk-team-gem/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+237878625.index
