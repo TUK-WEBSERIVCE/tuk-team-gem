@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>지원</title>
+<title>지원하기</title>
 <style>
         body {  
             font-family: Arial, sans-serif;
