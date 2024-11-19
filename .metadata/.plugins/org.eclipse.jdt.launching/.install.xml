@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.3.v20240426-1530/jre" stamp="1717682576000"/>
+    <entry loc="/Users/haechan/Library/Java/JavaVirtualMachines/temurin-21.0.3/Contents/Home" stamp="1721014568256"/>
     <entry loc="C:\Users\Admin\Desktop\툴\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre" stamp="1725521639094"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home" stamp="1665308793000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home" stamp="1670342196000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home" stamp="1725512493386"/>
     <entry loc="C:\Users\Admin\Desktop\툴\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551" stamp="1725521639094"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home" stamp="1679741358675"/>
 </dirs>
