@@ -1,2 +1,0 @@
-INDEX VERSION 1.4+/Users/haechan/Documents/school/tuk-team-gem/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-237878625.index
